@@ -1,4 +1,3 @@
-a
 abandon
 ability
 able
@@ -67,7 +66,6 @@ affect
 afford
 afraid
 African
-African-American
 after
 afternoon
 again
@@ -107,7 +105,6 @@ alter
 alternative
 although
 always
-AM
 amazing
 American
 among
@@ -876,7 +873,6 @@ eliminate
 elite
 else
 elsewhere
-e-mail
 embrace
 emerge
 emergency
@@ -1310,7 +1306,6 @@ hunting
 hurt
 husband
 hypothesis
-I
 ice
 idea
 ideal
@@ -1559,7 +1554,6 @@ locate
 location
 lock
 long
-long-term
 look
 loose
 lose
@@ -1668,7 +1662,6 @@ mission
 mistake
 mix
 mixture
-mm-hmm
 mode
 model
 moderate
@@ -1699,9 +1692,6 @@ mouth
 move
 movement
 movie
-Mr
-Mrs
-Ms
 much
 multiple
 murder
@@ -1775,7 +1765,6 @@ notion
 novel
 now
 nowhere
-n't
 nuclear
 number
 numerous
@@ -1809,7 +1798,6 @@ official
 often
 oh
 oil
-ok
 okay
 old
 Olympic
@@ -1904,7 +1892,6 @@ pattern
 pause
 pay
 payment
-PC
 peace
 peak
 peer
@@ -2457,7 +2444,6 @@ smooth
 snap
 snow
 so
-so-called
 soccer
 social
 society
